@@ -1,0 +1,16 @@
+{
+  "name": "light-sensor",
+  "version": "0.0.0",
+  "description": "Light Sensor",
+  "main": "index.js",
+  "author": "Chyld Medford",
+  "dependencies": {
+    "chalk":        "*",
+    "express":      "*",
+    "express-less": "*",
+    "jade":         "*",
+    "serialport":   "*",
+    "socket.io":    "*",
+    "lodash":       "*"
+  }
+}
